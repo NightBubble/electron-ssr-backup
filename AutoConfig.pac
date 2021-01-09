@@ -18,7 +18,6 @@ var rules = [
             "baidu.com",
             "chinaso.com",
             "chinaz.com",
-            "spotify.com",
             "chukuang.gov.tw",
             "cycab.gov.tw",
             "dbnsa.gov.tw",
